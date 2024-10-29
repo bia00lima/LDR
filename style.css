@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(241, 191, 129);
+    color: white;
+}
+nav{
+    text-align: center;
+}
+nav a{
+font-size: 30px;
+text-align: none;
+color: aliceblue;
+font-weight: bold;
+}
+h1{
+    font-size: 26px;
+    text-align: none;
+}
+h2{
+    font: 26px;
+    text-align: none;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+div img{
+    border-radius: 10px;
+    border-color: brown;
+}
+small{
+    font-size: 22px;
+}
+a:hover{
+    color: chocolate;
+}
